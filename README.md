@@ -14,8 +14,21 @@ Machine learning algorithms can learn from labeled email datasets to build model
 
 The project involves building a model to analyze the text of emails anddetermine whether they are spam or legitimate. This study has the potential to provide a valuable solution to the problem of email spam and help users to manage their emailsmore effectively.
 
-
+#Home Page Window using GUI:
 
 ![image](https://github.com/yekkalurisairuthvika/Email_spam_Detector_ML_Project/assets/101787682/032a9c74-fbd1-42f8-9683-9989bd78a466)
+
+#Spam Checker Window:
+
+![image](https://github.com/yekkalurisairuthvika/Email_spam_Detector_ML_Project/assets/101787682/b44cd31f-1b4f-4e68-a724-3b7b32a3fd04)
+
+#Spam Message:
+
+![image](https://github.com/yekkalurisairuthvika/Email_spam_Detector_ML_Project/assets/101787682/cc71ce28-f16d-470d-ada8-08cc689f5acf)
+
+#Ham Message:
+
+![image](https://github.com/yekkalurisairuthvika/Email_spam_Detector_ML_Project/assets/101787682/4a5b8aea-af3b-446f-b0a6-2bb3f3c5b7df)
+
 
 
